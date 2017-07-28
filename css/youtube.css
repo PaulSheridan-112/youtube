@@ -1,0 +1,46 @@
+.header {
+  height: 30px;
+  position: relative;
+}
+
+.left,.right {
+  margin-top: 3px;
+  display: inline-block;
+  height: 1400px;
+  position: relative;
+}
+
+.description {
+  margin-left: 65px;
+}
+
+.container {
+  padding-left: 15px;
+}
+
+.left {
+width: 721px;
+clear: both;
+}
+
+.mainvid {
+  margin-top: 15px;
+  margin-left: 80px;
+  width: 640px;
+  height: 360px;
+}
+
+.right {
+  float: right;
+  margin-left: 3px;
+  width: 490px;
+  margin-right: 2px;
+  clear: both;
+}
+
+.footer {
+  height: 144px;
+  position: relative;
+  width: 99.5%;
+  display: inline-block;
+}
